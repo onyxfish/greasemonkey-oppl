@@ -1,0 +1,7 @@
+This is a very simple Greasemonkey script that alters book links (probably lots of other links) on the Oak Park Public Library website (http://www.oppl.org/) to strip off a javascript method call that prevents them from being openable in new tabs/windows.
+
+This script bypasses a certain amount of their internal logic, but doesn't really seem to break anything.  And it makes using the site suck a whole lot less.
+
+This code is releases under the GPL license, version 3 or later.
+
+Christopher Groskopf
